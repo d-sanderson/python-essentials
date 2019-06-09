@@ -8,7 +8,7 @@ for i in x:
 print(x)
 
 # Dictionary
-count = { 'one': 1, 'two': 2, 'three': 3, 'four': 4, 'five': 5}
+count = { 'one': 1, 'two': True, 'three': 3, 'four': 4, 'five': 5}
 count['three'] = 50
 for k, v in count.items():
    print(f'key is {k}, value is {v}')

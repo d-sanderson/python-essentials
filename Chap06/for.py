@@ -3,6 +3,5 @@
 
 animals = ( 'bear', 'bunny', 'dog', 'cat', 'velociraptor' )
 
-for pet in animals:
-    print(pet)
-
+numbers = list(range(0, 1001))
+print(numbers)
